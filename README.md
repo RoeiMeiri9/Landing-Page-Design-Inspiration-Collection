@@ -13,7 +13,7 @@ A curated collection of exceptional landing page designs sourced from [Lapa Ninj
 
 <br>
 
-![Mintlify Preview](https://cdn.lapa.ninja/assets/images/2x/mintlify-1.jpg)
+[![Mintlify Preview](https://cdn.lapa.ninja/assets/images/2x/mintlify-1.jpg)](https://www.mintlify.com/?ref=lapaninja)
 
 </details>
 
@@ -28,7 +28,7 @@ A curated collection of exceptional landing page designs sourced from [Lapa Ninj
 
 <br>
 
-![Marble Preview](https://cdn.lapa.ninja/assets/images/2x/workspaceai_R2X.jpg)
+[![Marble Preview](https://cdn.lapa.ninja/assets/images/2x/workspaceai_R2X.jpg)](https://withmarble.com/?ref=lapaninja)
 
 </details>
 
@@ -37,13 +37,13 @@ A curated collection of exceptional landing page designs sourced from [Lapa Ninj
 
 <br>
 
-| 🔗 Lapa Ninja                                                | 🔗 Official                                                     |
-| :----------------------------------------------------------- | :-------------------------------------------------------------- |
-| [Lapa Ninja Preview](https://www.lapa.ninja/post/stackbyte/) | [Stackbyte Landing Page](https://withmarble.com/?ref=lapaninja) |
+| 🔗 Lapa Ninja                                                | 🔗 Official                                                    |
+| :----------------------------------------------------------- | :------------------------------------------------------------- |
+| [Lapa Ninja Preview](https://www.lapa.ninja/post/stackbyte/) | [Stackbyte Landing Page](https://stackbyte.dev/?ref=lapaninja) |
 
 <br>
 
-![Stackbyte Preview](https://cdn.lapa.ninja/assets/images/2x/stackbyte.jpg)
+[![Stackbyte Preview](https://cdn.lapa.ninja/assets/images/2x/stackbyte.jpg)](https://stackbyte.dev/?ref=lapaninja)
 
 </details>
 
@@ -58,7 +58,7 @@ A curated collection of exceptional landing page designs sourced from [Lapa Ninj
 
 <br>
 
-![Interfere Preview](https://cdn.lapa.ninja/assets/images/2x/interfere.jpg)
+[![Interfere Preview](https://cdn.lapa.ninja/assets/images/2x/interfere.jpg)](https://interfere.com/?ref=lapaninja)
 
 </details>
 
@@ -73,7 +73,7 @@ A curated collection of exceptional landing page designs sourced from [Lapa Ninj
 
 <br>
 
-![Column Preview](https://cdn.lapa.ninja/assets/images/2x/column-2.jpg)
+[![Column Preview](https://cdn.lapa.ninja/assets/images/2x/column-2.jpg)](https://column.com/?ref=lapaninja)
 
 </details>
 
@@ -88,7 +88,10 @@ A curated collection of exceptional landing page designs sourced from [Lapa Ninj
 
 <br>
 
-![Ethena Preview](https://cdn.lapa.ninja/assets/images/2x/ethena.jpg)
+> [!NOTE]
+> Visuals below are outdated. Check the live link for the latest design.
+
+[![Ethena Preview](https://cdn.lapa.ninja/assets/images/2x/ethena.jpg)](https://ethena.fi/?ref=lapaninja)
 
 </details>
 
@@ -103,7 +106,10 @@ A curated collection of exceptional landing page designs sourced from [Lapa Ninj
 
 <br>
 
-![Juicy Preview](https://cdn.lapa.ninja/assets/images/2x/getjuicy.jpg)
+> [!NOTE]
+> Visuals below are outdated. Check the live link for the latest design.
+
+[![Juicy Preview](https://cdn.lapa.ninja/assets/images/2x/getjuicy.jpg)](https://getjuicy.app/?ref=lapaninja)
 
 </details>
 
@@ -118,7 +124,7 @@ A curated collection of exceptional landing page designs sourced from [Lapa Ninj
 
 <br>
 
-![TitanGate Equity Preview](https://cdn.lapa.ninja/assets/images/2x/titangatequity.jpg)
+[![TitanGate Equity Preview](https://cdn.lapa.ninja/assets/images/2x/titangatequity.jpg)](https://titangatequity.com/?ref=lapaninja)
 
 </details>
 
@@ -133,7 +139,7 @@ A curated collection of exceptional landing page designs sourced from [Lapa Ninj
 
 <br>
 
-![React Email Preview](https://cdn.lapa.ninja/assets/images/2x/react-email.jpg)
+[![React Email Preview](https://cdn.lapa.ninja/assets/images/2x/react-email.jpg)](https://react.email/?ref=lapaninja)
 
 </details>
 
@@ -148,6 +154,24 @@ A curated collection of exceptional landing page designs sourced from [Lapa Ninj
 
 <br>
 
-![Resend Preview](https://cdn.lapa.ninja/assets/images/2x/resend-2.jpg)
+[![Resend Preview](https://cdn.lapa.ninja/assets/images/2x/resend-2.jpg)](https://resend.com/)
+
+</details>
+
+<details>
+<summary><b>Alloy Planning</b></summary>
+
+<br>
+
+| 🔗 Lapa Ninja                                                | 🔗 Official                                                             |
+| :----------------------------------------------------------- | :---------------------------------------------------------------------- |
+| [Lapa Ninja Preview](https://www.lapa.ninja/post/index-inc/) | [Alloy Planning Landing Page](https://alloy.app/planning?ref=lapaninja) |
+
+<br>
+
+> [!NOTE]
+> Visuals below are outdated. Check the live link for the latest design.
+
+[![Resend Preview](https://cdn.lapa.ninja/assets/images/2x/index-inc.jpg)](https://alloy.app/planning?ref=lapaninja)
 
 </details>
